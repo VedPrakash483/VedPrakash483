@@ -36,15 +36,10 @@ _CGPA: 7.91_
 ## 📫 Contact Me
 
 - **Email:** [vedp7952@gmail.com](mailto:vedp7952@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](#)
-- **GitHub:** [GitHub Profile](#)
+- **LinkedIn:** [LinkedIn Profile]([#](https://www.linkedin.com/in/ved-prakash-37b438219/))
+- **GitHub:** [GitHub Profile]([#](https://github.com/VedPrakash483))
 
 
-
-![Technologies](https://img.shields.io/badge/Technologies-MERN%20Stack-brightgreen?style=flat&logo=mern)
-![Mobile Development](https://img.shields.io/badge/Technologies-Flutter%20%7C%20React%20Native-blue?style=flat&logo=flutter)
-![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20Java%20%7C%20JavaScript%20%7C%20C++-purple?style=flat&logo=python)
-![Certifications](https://img.shields.io/badge/Certifications-Cisco%20Networking%20%7C%20Advanced%20C%2B%2B%20%7C%20Python-lightblue?style=flat&logo=cisco)
 
 ---
 
