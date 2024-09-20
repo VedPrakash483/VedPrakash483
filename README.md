@@ -25,7 +25,6 @@
 
 **B. Tech in Computer Science**  
 _Vellore Institute of Technology_  
-_CGPA: 7.91_
 
 ## 🎓 Certifications
 
