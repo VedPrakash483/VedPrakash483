@@ -35,7 +35,7 @@ _Vellore Institute of Technology_
 ## 📫 Contact Me
 
 - **Email:** [vedp7952@gmail.com](mailto:vedp7952@gmail.com)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ved-prakash-37b438219/)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ved-prakashh-37b438219/)
 - **GitHub:** [GitHub Profile](https://github.com/VedPrakash483)
 
 
